@@ -1,0 +1,40 @@
+h1 {
+  color: black;
+  text-align: center;
+}
+
+body {
+  background-color: blue;
+  font-family: georgia;
+}
+
+.stages {
+  font-size: 15px;
+  background-color: orange;
+  border-radius: 50px;
+  color: white;
+  padding: 10px;
+}
+
+h2 {
+  margin: 5px;
+}
+
+.notes {
+    background-color: grey;
+    padding: 3px;
+    margin: 18px;
+    border-radius: 15px;
+    color: black;
+}
+
+.notes-title {
+  font-size: 17px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.notes-description {
+  font-weight: lighter;
+  margin: 6px;
+}
